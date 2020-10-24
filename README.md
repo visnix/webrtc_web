@@ -1,2 +1,3 @@
 # webrtc_web
-for geek time
+
+运行 `npm start`

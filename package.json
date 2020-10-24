@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avdance/webrtc_web.git"
+    "url": "git+https://github.com/visnix/webrtc_web.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/avdance/webrtc_web/issues"
+    "url": "https://github.com/visnix/webrtc_web/issues"
   },
-  "homepage": "https://github.com/avdance/webrtc_web#readme",
+  "homepage": "https://github.com/visnix/webrtc_web#readme",
   "devDependencies": {
     "serve": "^11.3.2"
   }
